@@ -1,12 +1,3 @@
-# Roteiro para o desenvolvimento da atividade prática do DIO Live Coding do dia 17/11/2021
-
-## Serviços AWS utilizados
-
-- Amazon Cognito
-- Amazon DynamoDB
-- Amazon API Gateway
-- AWS Lambda
-
 ## Etapas do desenvolvimento
 
 ### Criando uma API REST no Amazon API Gateway
