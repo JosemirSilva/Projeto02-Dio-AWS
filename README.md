@@ -1,4 +1,6 @@
-## Etapas do desenvolvimento (Para revisão...)
+## Etapas do desenvolvimento 
+
+Esse projeto será atualizado com minha versão, pois apenas fiz o fork do Cassiano e preciso apresentar o resultado de meu trabalho.
 
 ### Criando uma API REST no Amazon API Gateway
 
